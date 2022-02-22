@@ -29,6 +29,9 @@
   .borde {
     padding: 2px 5px !important;
   }
+  .h-pers {
+    width: 300px !important ;
+  }
 }
 
 .border-color {
